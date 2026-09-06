@@ -1,0 +1,8 @@
+# Ignore test repository artifacts
+*/
+!.gitkeep
+!README.md
+!TEST_RESULTS.md
+
+# But track the test results summary
+TEST_RESULTS.md
